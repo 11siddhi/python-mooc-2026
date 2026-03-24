@@ -19,7 +19,7 @@ Part 7 ✔
 
 **Advanced Course in Programming**  
 Part 8 ✔  
-Part 9  
+Part 9 ✔  
 Part 10  
 Part 11  
 Part 12  
